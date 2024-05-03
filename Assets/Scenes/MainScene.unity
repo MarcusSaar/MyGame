@@ -861,7 +861,7 @@ MonoBehaviour:
   objectMask:
     serializedVersion: 2
     m_Bits: 0
-  interactKey: 101
+  interactKey: 100
   item: {fileID: 11400000, guid: ffba155b1ee645b4db138a32496a4198, type: 2}
 --- !u!65 &104026266
 BoxCollider:
